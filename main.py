@@ -7,7 +7,7 @@ from aiogram import Router
 from aiogram.filters import Command
 
 nest_asyncio.apply()
-TOKEN = '6122222610:AAFcGasSkJLYdjldRzv8Rkd6O-IStwHAFrs'
+TOKEN = '122222610:AAFcGasSkJLYdjldRzv8Rkd6O-IStwHAFrs'
 
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
